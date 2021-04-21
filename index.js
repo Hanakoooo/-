@@ -27,4 +27,4 @@ client.on('message', message => {
 
 //made by Hanako#0007 !
 
-client.login('ODM0MjU0NzY1ODQzNjc3MTg0.YH-OSw.JM53MDjj_Eq0uC2dAJcFa_o5GFI');
+client.login('insert-token-here');
